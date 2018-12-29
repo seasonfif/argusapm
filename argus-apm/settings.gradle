@@ -1,0 +1,7 @@
+include ':argus-apm-sample',
+        ':argus-apm-okhttp',
+        ':argus-apm-main',
+        ':argus-apm-cloud',
+        ':argus-apm-cloud-dummy-impl',
+        ':argus-apm-aop',
+        ':argus-apm-gradle'
